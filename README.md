@@ -15,9 +15,8 @@ Building upon Part 1, this version includes:
 ## 🚀 Live Demo
 
 View the live project here:  
-🔗 [https://kushal-lab123.github.io/Creating-cardspart2/](https://kushan-lab123.github.io/Creating-cardspart2/)
+🔗 [https://kushal-lab123.github.io/Creating-cardspart2/]((https://kushal-lab123.github.io/Creating-cardspart2/))
 
-*(Note: Replace `kushan` with `kushal` if different - the URL will be active after enabling GitHub Pages)*
 
 ## 🛠️ Technologies Used
 
